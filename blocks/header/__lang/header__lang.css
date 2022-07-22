@@ -1,7 +1,9 @@
 .header__lang {
    display: flex;
-   padding: 0;
-   margin: 0;
    list-style-type: none;
    align-items: flex-end;
+}
+
+.header__item:last-of-type {
+   margin: 0;
 }
