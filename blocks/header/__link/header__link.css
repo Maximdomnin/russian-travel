@@ -6,10 +6,11 @@
    font-weight: 400;
    transition: opacity 0.3s ease;
    font-style: normal;
+   margin-right: 18px;
 }
 
 .header__link:hover {
-   opacity: 70%;
+   opacity: 80%;
 }
 
 @media screen and (max-width: 568px) {
