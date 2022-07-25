@@ -1,5 +1,7 @@
 .header__lang {
-   display: flex;
+   display: grid;
+   gap: 18px;
+   grid-template-columns: 1fr 0fr;
    list-style-type: none;
    align-items: flex-end;
    margin: 0;
